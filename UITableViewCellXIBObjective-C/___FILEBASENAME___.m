@@ -3,7 +3,7 @@
 //  ___PROJECTNAME___
 //
 //  Created by ___FULLUSERNAME___ on ___DATE___.
-//___COPYRIGHT___
+//  ___COPYRIGHT___
 //
 
 #import "___FILEBASENAME___.h"
@@ -14,7 +14,7 @@
 
 #pragma mark - Life Cycle
 
--(void)awakeFromNib {
+- (void)awakeFromNib {
     [super awakeFromNib];
 }
 
